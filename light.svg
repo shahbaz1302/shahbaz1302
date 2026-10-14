@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+  <title id="title">Mohd Shahbaz Khan — Software Engineer</title>
+  <desc id="desc">A bright, terminal-inspired profile banner for a software engineer focused on full-stack development and AI engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".56" stop-color="#f2f8ff"/><stop offset="1" stop-color="#eafafa"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset=".52" stop-color="#0891b2"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".94"/><stop offset="1" stop-color="#f7fbff" stop-opacity=".96"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#06b6d4" stop-opacity=".16"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#0e7490" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#0891b2" fill-opacity=".65"/></pattern>
+    <clipPath id="portraitClip"><rect x="70" y="150" width="350" height="282" rx="16"/></clipPath>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#bg)" stroke="#cbd5e1"/>
+  <rect x="9" y="9" width="1162" height="592" rx="23" fill="url(#grid)"/>
+  <ellipse cx="210" cy="230" rx="270" ry="230" fill="url(#glow)"><animate attributeName="opacity" values=".55;.9;.55" dur="8s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="970" cy="470" rx="300" ry="220" fill="#8b5cf6" opacity=".06" filter="url(#shadow)"/>
+  <rect x="9" y="9" width="1162" height="43" rx="22" fill="#eaf0f8"/>
+  <path d="M9 52H1171" stroke="#cbd5e1"/>
+  <circle cx="31" cy="30" r="5" fill="#fb7185"/><circle cx="49" cy="30" r="5" fill="#fbbf24"/><circle cx="67" cy="30" r="5" fill="#34d399"/>
+  <text x="88" y="35" fill="#475569" font-family="monospace" font-size="12">shahbaz1302 / profile</text>
+  <text x="1138" y="35" text-anchor="end" fill="#047857" font-family="monospace" font-size="11">● OPEN TO OPPORTUNITIES</text>
+  <rect x="34" y="72" width="405" height="500" rx="18" fill="url(#panel)" stroke="#d4deea"/>
+  <rect x="34" y="72" width="405" height="2" rx="1" fill="url(#accent)"/>
+  <text x="58" y="103" fill="#0e7490" font-family="monospace" font-size="11" letter-spacing="2">VISUAL.MAP</text>
+  <text x="414" y="103" text-anchor="end" fill="#64748b" font-family="monospace" font-size="10">FIG. 01 / IDENTITY</text>
+  <rect x="58" y="120" width="357" height="326" rx="14" fill="#f0f8fc" stroke="#d4e3ee"/>
+  <g clip-path="url(#portraitClip)">
+    <rect x="58" y="120" width="357" height="326" fill="#eef8fb"/>
+    <circle cx="237" cy="265" r="126" fill="#06b6d4" opacity=".08"/>
+    <circle cx="237" cy="265" r="104" fill="none" stroke="#0891b2" stroke-opacity=".32" stroke-dasharray="3 8"><animateTransform attributeName="transform" type="rotate" from="0 237 265" to="360 237 265" dur="55s" repeatCount="indefinite"/></circle>
+    <circle cx="237" cy="265" r="83" fill="none" stroke="#7c3aed" stroke-opacity=".32" stroke-dasharray="2 7"/>
+    <path d="M151 389 Q160 337 194 323 L211 307 L263 307 L280 323 Q318 339 328 389 L328 420 L151 420Z" fill="#d6eaf2" stroke="#0891b2" stroke-opacity=".8" stroke-width="1.4"/>
+    <path d="M190 338 L237 370 L284 338 L272 420 L202 420Z" fill="#e5f4f8" stroke="#0891b2" stroke-opacity=".42"/>
+    <path d="M205 313 L237 348 L269 313 L260 302 L214 302Z" fill="#b9dce8"/>
+    <path d="M190 218 Q190 163 237 163 Q284 163 284 218 L278 268 Q269 304 237 312 Q205 304 196 268Z" fill="#c4e2ec" stroke="#0e7490" stroke-opacity=".8" stroke-width="1.5"/>
+    <path d="M188 220 Q178 179 212 158 Q247 141 275 165 Q295 183 286 222 L273 205 Q249 195 232 178 Q220 199 192 207Z" fill="#b2d4e2" stroke="#7c3aed" stroke-opacity=".65" stroke-width="1.5"/>
+    <path d="M204 238 Q217 230 228 238 M246 238 Q258 230 270 238" fill="none" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+    <path d="M234 249 L228 266 L240 267 M222 284 Q237 292 252 283" fill="none" stroke="#0e7490" stroke-opacity=".8" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M190 230 Q177 244 195 260 M284 230 Q297 244 279 260" fill="none" stroke="#0891b2" stroke-opacity=".7" stroke-width="2"/>
+    <rect x="58" y="120" width="357" height="326" fill="url(#dots)" opacity=".16"/>
+    <path d="M58 210H415 M58 270H415 M58 330H415 M58 390H415" stroke="#0891b2" stroke-opacity=".1"/>
+    <path d="M58 170H415" stroke="#0891b2" stroke-opacity=".6" stroke-width="1"><animate attributeName="y1" values="145;430;145" dur="7s" repeatCount="indefinite"/><animate attributeName="y2" values="145;430;145" dur="7s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="58" y="473" fill="#0f172a" font-family="monospace" font-size="13">build independently.</text>
+  <text x="58" y="494" fill="#64748b" font-family="monospace" font-size="11">/ develop on your own</text>
+  <path d="M58 516H415" stroke="#d5e0eb"/>
+  <text x="58" y="540" fill="#64748b" font-family="monospace" font-size="10">MODE</text><text x="108" y="540" fill="#047857" font-family="monospace" font-size="10">LEARN · BUILD · SHIP</text>
+  <rect x="461" y="72" width="685" height="500" rx="18" fill="url(#panel)" stroke="#d4deea"/>
+  <rect x="461" y="72" width="685" height="2" rx="1" fill="url(#accent)"/>
+  <text x="487" y="103" fill="#0e7490" font-family="monospace" font-size="11" letter-spacing="2">SYSTEM.INFO</text>
+  <text x="1120" y="103" text-anchor="end" fill="#64748b" font-family="monospace" font-size="10">PROFILE.SH</text>
+  <text x="488" y="137" fill="#64748b" font-family="monospace" font-size="12">$ ./profile.sh --summary</text>
+  <text x="488" y="180" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Mohd Shahbaz Khan</text>
+  <text x="488" y="210" fill="#0e7490" font-family="Arial, Helvetica, sans-serif" font-size="17">Software Engineer | Full Stack &amp; AI Engineering</text>
+  <text x="488" y="238" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="13">Recent graduate · Open to full-time opportunities · India</text>
+  <path d="M488 258H1118" stroke="#d5e0eb"/>
+  <text x="488" y="284" fill="#047857" font-family="monospace" font-size="11" letter-spacing="1.4">FOCUS AREAS</text>
+  <g font-family="monospace" font-size="11">
+    <rect x="488" y="298" width="176" height="28" rx="7" fill="#e6f7fa" stroke="#a5dce8"/><text x="576" y="316" text-anchor="middle" fill="#155e75">Full-stack applications</text>
+    <rect x="674" y="298" width="192" height="28" rx="7" fill="#f0eaff" stroke="#d7c5ff"/><text x="770" y="316" text-anchor="middle" fill="#5b21b6">Backend &amp; REST APIs</text>
+    <rect x="876" y="298" width="242" height="28" rx="7" fill="#e6f7fa" stroke="#a5dce8"/><text x="997" y="316" text-anchor="middle" fill="#155e75">AI, LLMs &amp; tool calling</text>
+    <rect x="488" y="334" width="176" height="28" rx="7" fill="#e7f8ee" stroke="#a7e5bf"/><text x="576" y="352" text-anchor="middle" fill="#166534">Frontend &amp; UI/UX</text>
+  </g>
+  <text x="488" y="390" fill="#047857" font-family="monospace" font-size="11" letter-spacing="1.4">SELECTED STACK</text>
+  <text x="488" y="414" fill="#334155" font-family="monospace" font-size="12">TypeScript · React · Next.js · Node.js · Express</text>
+  <text x="488" y="435" fill="#334155" font-family="monospace" font-size="12">MongoDB · PostgreSQL · Docker · Redis</text>
+  <text x="488" y="456" fill="#334155" font-family="monospace" font-size="12">LangChain · LangGraph · AWS</text>
+  <path d="M488 477H1118" stroke="#d5e0eb"/>
+  <text x="488" y="501" fill="#047857" font-family="monospace" font-size="11" letter-spacing="1.4">BUILDING PROOF</text>
+  <circle cx="495" cy="521" r="3" fill="#0891b2"/><text x="507" y="525" fill="#0f172a" font-family="monospace" font-size="11">APEX AI Code Editor</text>
+  <circle cx="718" cy="521" r="3" fill="#7c3aed"/><text x="730" y="525" fill="#0f172a" font-family="monospace" font-size="11">NEXUS AI</text>
+  <circle cx="850" cy="521" r="3" fill="#059669"/><text x="862" y="525" fill="#0f172a" font-family="monospace" font-size="11">WEARIX</text>
+  <text x="488" y="551" fill="#64748b" font-family="monospace" font-size="10">[ LEARN ] ───────── [ BUILD ] ───────── [ SHIP ]</text>
+  <rect x="9" y="9" width="1162" height="592" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".38"/>
+</svg>
