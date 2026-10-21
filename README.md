@@ -55,6 +55,7 @@
 
 ### [APEX AI Code Editor](https://github.com/shahbaz1302/APEX-AI-Editor)
 An AI-powered code editor project focused on bringing AI assistance into the development workflow.
+**Live demo:** [apex-ai-editor.vercel.app](https://apex-ai-editor.vercel.app)
 
 ### [NEXUS AI](https://github.com/shahbaz1302/Nexus-AI)
 An AI application built to explore practical AI-powered experiences.  
